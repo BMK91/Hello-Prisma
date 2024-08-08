@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:BMK91/repository
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = BHARGAV
+[credential]
+	helper = 
